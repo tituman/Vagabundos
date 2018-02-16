@@ -1,0 +1,24 @@
+Quiénes somos
+Nosotros somos Olga e Ivan. Aunque pudiéramos parecer rusos por nuestros nombres, no los somos. Somos una pareja polaco-mexicana que busca el viaje y la aventura. Nos gusta labrar las pendientes nevadas con nuestras snowboards, desgarrar los cables soleados con nuestras wakeboard y wakeskate, pulir las lisas calles con nuestras longboards y ascender los empinados y rugosos Alpes austriacos con nuestras plantas y palmas.
+
+Ella es una bailarina, él es un ingeniero. ¡Qué mezcla! Después de todo, los opuestos se atraen. A pesar de la oposición, no somos ortogonales, somos paralelos. Nuestros intereses tales como los deportes de tabla y la cerveza fría nos impulsan en la misma dirección :).
+
+Abajo pueden leer más acerca de nosotros y si quieren contactarnos, no duden en hacerlo en alguno de los siguientes idiomas: inglés, polaco, español, alemán, o, francés.
+
+
+Olga
+Una artista con genialidad en organización y administración. Millones de ideas transitan su mente en un segundo.
+
+Nací en Polonia en la ciudad de Lodz. A los 18 años me mudé a Austria después de haberme graduado de una escuela nacional de ballet. En Linz, Austria continué mis estudios de danza y me gradué con Maestría de Artes (MA) en danza contemporánea. Sin embargo esto no fue suficiente para mí, e hice una licenciatura en administración turística y recreativa. Actualmente puedo pronunciarme especialista en arte, cultura y gestión de eventos.
+
+Desde mi niñez fui adicta al movimiento. Viajé mucho con mi familia y practiqué muchos deportes. Ni siquiera me puedo acordar de alguna época en la que no supiera nadar, andar en bicicleta, hacer un split de piernas, pararme de manos o bailar. También practiqué gimnasia rítmica, equitación, windsurf, esquí alpino, y tengo licencia de salvavidas junior.
+
+Actualmente, junto con mi novio Ivan, estoy perfeccionando mi destreza en deportes de tabla y escalada.
+
+
+Ivan
+Soy un ingeniero de profesión y snowboarder, wakeskater y longboarder de pasión. Desde chavito siempre practiqué todo tipo de deportes: tenis, gimnasia olímpica, esquí acuático, escalada, vela, bodyboarding, windsurfing, kitesurfing, pezca deportiva, entre otros. Nací en Cancun y me mudé a Austria hace 12 anos. Ahora soy una combinación peculiar de sol y nieve.
+
+Trabajé los últimos 6 años como ingeniero en software industrial y robótica, sin embargo el gusto por los deportes y la aventura ha seguido creciendo hasta el punto donde junto con mi novia Olga, nos dimos cuenta que los deportes y la aventura eran parte de nuestras pasiones.
+
+Hablo excelente español, inglés, alemán y francés. También soy un desarrollador de SW backend y arquitecto, en particular in C/C++, C# y Java. En mi tiempo libre me gusta experimentar con software y electrónica con mi RPi y tengo un projecto open source en github https://pettitpeon.github.io/AuTomatoPi/.
